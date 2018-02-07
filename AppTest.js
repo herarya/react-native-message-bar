@@ -5,9 +5,9 @@
  */
 'use strict';
 
-var MessageBarAlert = require('./MessageBar.js');
-var MessageBarManager = require('./MessageBarManager.js');
-var CustomChildComponent = require('./CustomChildComponent.js');
+var MessageBarAlert = require('./src/MessageBar.js');
+var MessageBarManager = require('./src/MessageBarManager.js');
+var CustomChildComponent = require('./src/CustomChildComponent.js');
 
 import React, {Component} from 'react'
 import {

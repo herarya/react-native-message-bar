@@ -5,7 +5,7 @@
  */
 'use strict';
 
-var MessageBarManager = require('./MessageBarManager.js');
+var MessageBarManager = require('./src/MessageBarManager.js');
 
 import React, {Component} from 'react'
 import {
